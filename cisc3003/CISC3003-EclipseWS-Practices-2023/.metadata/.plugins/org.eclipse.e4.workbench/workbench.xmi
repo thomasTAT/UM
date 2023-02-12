@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="ASCII"?>
 <application:Application xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:advanced="http://www.eclipse.org/ui/2010/UIModel/application/ui/advanced" xmlns:application="http://www.eclipse.org/ui/2010/UIModel/application" xmlns:basic="http://www.eclipse.org/ui/2010/UIModel/application/ui/basic" xmlns:menu="http://www.eclipse.org/ui/2010/UIModel/application/ui/menu" xmi:id="_nuy3oKOdEe2tc64GNKjZIw" elementId="org.eclipse.e4.legacy.ide.application" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_nuzesKOdEe2tc64GNKjZIw" bindingContexts="_nuzeuaOdEe2tc64GNKjZIw">
-  <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;workbench>&#xD;&#xA;&lt;mruList>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.ui.browser.editor&quot; name=&quot;cisc3003-practice02-after.html&quot; tooltip=&quot;CISC3003_Practice02_2023FEB03/public/cisc3003-practice02-after.html&quot;>&#xD;&#xA;&lt;persistable path=&quot;/CISC3003_Practice02_2023FEB03/public/cisc3003-practice02-after.html&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.wst.html.core.htmlsource.source&quot; name=&quot;cisc3003-practice02.html&quot; tooltip=&quot;CISC3003_Practice02_2023FEB03/public/cisc3003-practice02.html&quot;>&#xD;&#xA;&lt;persistable path=&quot;/CISC3003_Practice02_2023FEB03/public/cisc3003-practice02.html&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;/mruList>&#xD;&#xA;&lt;/workbench>"/>
+  <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;workbench>&#xD;&#xA;&lt;mruList>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.wst.css.core.csssource.source&quot; name=&quot;cisc3003-practice03.css&quot; tooltip=&quot;CISC3003-Practice03-2023FEB10/public/css/cisc3003-practice03.css&quot;>&#xD;&#xA;&lt;persistable path=&quot;/CISC3003-Practice03-2023FEB10/public/css/cisc3003-practice03.css&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.wst.css.core.csssource.source&quot; name=&quot;reset.css&quot; tooltip=&quot;CISC3003-Practice03-2023FEB10/public/css/reset.css&quot;>&#xD;&#xA;&lt;persistable path=&quot;/CISC3003-Practice03-2023FEB10/public/css/reset.css&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.wst.html.core.htmlsource.source&quot; name=&quot;cisc3003-practice3-after.html&quot; tooltip=&quot;CISC3003-Practice03-2023FEB10/public/cisc3003-practice3-after.html&quot;>&#xD;&#xA;&lt;persistable path=&quot;/CISC3003-Practice03-2023FEB10/public/cisc3003-practice3-after.html&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.wst.html.core.htmlsource.source&quot; name=&quot;cisc3003-practice03.html&quot; tooltip=&quot;CISC3003-Practice03-2023FEB10/public/cisc3003-practice03.html&quot;>&#xD;&#xA;&lt;persistable path=&quot;/CISC3003-Practice03-2023FEB10/public/cisc3003-practice03.html&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.ui.browser.editor&quot; name=&quot;cisc3003-practice02-after.html&quot; tooltip=&quot;CISC3003_Practice02_2023FEB03/public/cisc3003-practice02-after.html&quot;>&#xD;&#xA;&lt;persistable path=&quot;/CISC3003_Practice02_2023FEB03/public/cisc3003-practice02-after.html&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.wst.html.core.htmlsource.source&quot; name=&quot;cisc3003-practice02.html&quot; tooltip=&quot;CISC3003_Practice02_2023FEB03/public/cisc3003-practice02.html&quot;>&#xD;&#xA;&lt;persistable path=&quot;/CISC3003_Practice02_2023FEB03/public/cisc3003-practice02.html&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;/mruList>&#xD;&#xA;&lt;/workbench>"/>
   <tags>activeSchemeId:org.eclipse.ui.defaultAcceleratorConfiguration</tags>
-  <children xsi:type="basic:TrimmedWindow" xmi:id="_nuzesKOdEe2tc64GNKjZIw" elementId="IDEWindow" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_oqm_oKOdEe2tc64GNKjZIw" label="%trimmedwindow.label.eclipseSDK" x="1273" y="0" width="1294" height="1102">
+  <children xsi:type="basic:TrimmedWindow" xmi:id="_nuzesKOdEe2tc64GNKjZIw" elementId="IDEWindow" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_oqm_oKOdEe2tc64GNKjZIw" label="%trimmedwindow.label.eclipseSDK" x="0" y="0" width="1294" height="1102">
     <persistedState key="coolBarVisible" value="true"/>
     <persistedState key="perspectiveBarVisible" value="true"/>
     <persistedState key="isRestored" value="true"/>
@@ -196,8 +196,9 @@
           <tags>persp.perspSC:org.eclipse.jst.j2ee.J2EEPerspective</tags>
           <tags>persp.newWizSC:org.eclipse.jst.jsp.ui.internal.wizard.NewJSPWizard</tags>
           <tags>persp.showIn:org.eclipse.tm.terminal.view.ui.TerminalsView</tags>
-          <children xsi:type="basic:PartSashContainer" xmi:id="_QSHAYaPBEe27Sa_SCwbkhg" selectedElement="_QSHAZaPBEe27Sa_SCwbkhg" horizontal="true">
-            <children xsi:type="basic:PartStack" xmi:id="_QSHAYqPBEe27Sa_SCwbkhg" elementId="topLeft" containerData="1080" selectedElement="_QSHAY6PBEe27Sa_SCwbkhg">
+          <children xsi:type="basic:PartSashContainer" xmi:id="_QSHAYaPBEe27Sa_SCwbkhg" selectedElement="_QSHAYqPBEe27Sa_SCwbkhg" horizontal="true">
+            <children xsi:type="basic:PartStack" xmi:id="_QSHAYqPBEe27Sa_SCwbkhg" elementId="topLeft" containerData="1870" selectedElement="_QSHAY6PBEe27Sa_SCwbkhg">
+              <tags>active</tags>
               <children xsi:type="advanced:Placeholder" xmi:id="_QSHAY6PBEe27Sa_SCwbkhg" elementId="org.eclipse.ui.navigator.ProjectExplorer" ref="_pK5pQaOdEe2tc64GNKjZIw" closeable="true">
                 <tags>View</tags>
                 <tags>categoryTag:General</tags>
@@ -207,7 +208,7 @@
                 <tags>categoryTag:General</tags>
               </children>
             </children>
-            <children xsi:type="basic:PartSashContainer" xmi:id="_QSHAZaPBEe27Sa_SCwbkhg" containerData="8920" selectedElement="_QSHAZqPBEe27Sa_SCwbkhg" horizontal="true">
+            <children xsi:type="basic:PartSashContainer" xmi:id="_QSHAZaPBEe27Sa_SCwbkhg" containerData="8130" selectedElement="_QSHAZqPBEe27Sa_SCwbkhg" horizontal="true">
               <children xsi:type="basic:PartSashContainer" xmi:id="_QSHAZqPBEe27Sa_SCwbkhg" containerData="8000" selectedElement="_QSHAZ6PBEe27Sa_SCwbkhg">
                 <children xsi:type="advanced:Placeholder" xmi:id="_QSHAZ6PBEe27Sa_SCwbkhg" elementId="org.eclipse.ui.editorss" containerData="9000" ref="_pKfZkKOdEe2tc64GNKjZIw"/>
                 <children xsi:type="basic:PartStack" xmi:id="_QSHAaKPBEe27Sa_SCwbkhg" elementId="bottom" containerData="1000" selectedElement="_QSHAaaPBEe27Sa_SCwbkhg">
@@ -312,10 +313,9 @@
       <tags>categoryTag:Help</tags>
     </sharedElements>
     <sharedElements xsi:type="advanced:Area" xmi:id="_pKfZkKOdEe2tc64GNKjZIw" elementId="org.eclipse.ui.editorss" selectedElement="_pKfZkaOdEe2tc64GNKjZIw">
-      <children xsi:type="basic:PartStack" xmi:id="_pKfZkaOdEe2tc64GNKjZIw" elementId="org.eclipse.e4.primaryDataStack" selectedElement="_7kxdAKXhEe2iUK1qXG-iUg">
+      <children xsi:type="basic:PartStack" xmi:id="_pKfZkaOdEe2tc64GNKjZIw" elementId="org.eclipse.e4.primaryDataStack" selectedElement="_25QE0KkdEe2vzN61QdJaAw">
         <tags>org.eclipse.e4.primaryDataStack</tags>
         <tags>EditorStack</tags>
-        <tags>active</tags>
         <children xsi:type="basic:Part" xmi:id="_LeGCUKPCEe27Sa_SCwbkhg" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="cisc3003-practice02-after.html" iconURI="platform:/plugin/org.eclipse.wst.html.ui/icons/full/obj16/sourceEditor.gif" closeable="true">
           <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.wst.html.core.htmlsource.source&quot; name=&quot;cisc3003-practice02-after.html&quot; partName=&quot;cisc3003-practice02-after.html&quot; title=&quot;cisc3003-practice02-after.html&quot; tooltip=&quot;CISC3003_Practice02_2023FEB03/public/cisc3003-practice02-after.html&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/CISC3003_Practice02_2023FEB03/public/cisc3003-practice02-after.html&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;1310&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
           <tags>Editor</tags>
@@ -333,8 +333,30 @@
           <tags>Editor</tags>
           <tags>removeOnHide</tags>
           <tags>org.eclipse.ui.browser.editor</tags>
-          <tags>active</tags>
-          <tags>activeOnClose</tags>
+        </children>
+        <children xsi:type="basic:Part" xmi:id="_CdsN0KkdEe2vzN61QdJaAw" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="cisc3003-practice03-before.html" iconURI="platform:/plugin/org.eclipse.wst.html.ui/icons/full/obj16/sourceEditor.gif" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.wst.html.core.htmlsource.source&quot; name=&quot;cisc3003-practice03-before.html&quot; partName=&quot;cisc3003-practice03-before.html&quot; title=&quot;cisc3003-practice03-before.html&quot; tooltip=&quot;CISC3003-Practice03-2023FEB10/public/cisc3003-practice03-before.html&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/CISC3003-Practice03-2023FEB10/public/cisc3003-practice03-before.html&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;219&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
+          <tags>Editor</tags>
+          <tags>removeOnHide</tags>
+          <tags>org.eclipse.wst.html.core.htmlsource.source</tags>
+        </children>
+        <children xsi:type="basic:Part" xmi:id="_M3iWgKkdEe2vzN61QdJaAw" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="cisc3003-practice03-after.html" iconURI="platform:/plugin/org.eclipse.wst.html.ui/icons/full/obj16/sourceEditor.gif" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.wst.html.core.htmlsource.source&quot; name=&quot;cisc3003-practice03-after.html&quot; partName=&quot;cisc3003-practice03-after.html&quot; title=&quot;cisc3003-practice03-after.html&quot; tooltip=&quot;CISC3003-Practice03-2023FEB10/public/cisc3003-practice03-after.html&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/CISC3003-Practice03-2023FEB10/public/cisc3003-practice03-after.html&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;2&quot; selectionOffset=&quot;252&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
+          <tags>Editor</tags>
+          <tags>removeOnHide</tags>
+          <tags>org.eclipse.wst.html.core.htmlsource.source</tags>
+        </children>
+        <children xsi:type="basic:Part" xmi:id="_n-KlkKkdEe2vzN61QdJaAw" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="reset.css" iconURI="platform:/plugin/org.eclipse.wst.css.ui/icons/full/obj16/sourceEditor.gif" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.wst.css.core.csssource.source&quot; name=&quot;reset.css&quot; partName=&quot;reset.css&quot; title=&quot;reset.css&quot; tooltip=&quot;CISC3003-Practice03-2023FEB10/public/css/reset.css&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/CISC3003-Practice03-2023FEB10/public/css/reset.css&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;0&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
+          <tags>Editor</tags>
+          <tags>removeOnHide</tags>
+          <tags>org.eclipse.wst.css.core.csssource.source</tags>
+        </children>
+        <children xsi:type="basic:Part" xmi:id="_25QE0KkdEe2vzN61QdJaAw" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="cisc3003-practice03.css" iconURI="platform:/plugin/org.eclipse.wst.css.ui/icons/full/obj16/sourceEditor.gif" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.wst.css.core.csssource.source&quot; name=&quot;cisc3003-practice03.css&quot; partName=&quot;cisc3003-practice03.css&quot; title=&quot;cisc3003-practice03.css&quot; tooltip=&quot;CISC3003-Practice03-2023FEB10/public/css/cisc3003-practice03.css&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/CISC3003-Practice03-2023FEB10/public/css/cisc3003-practice03.css&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;81&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
+          <tags>Editor</tags>
+          <tags>removeOnHide</tags>
+          <tags>org.eclipse.wst.css.core.csssource.source</tags>
         </children>
       </children>
     </sharedElements>
@@ -362,6 +384,8 @@
       <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;view CommonNavigator.LINKING_ENABLED=&quot;0&quot; currentWorkingSetName=&quot;Aggregate for window 1675413300913&quot; org.eclipse.ui.navigator.resources.workingSets.showTopLevelWorkingSets=&quot;0&quot;>&#xD;&#xA;&lt;lastRecentlyUsedFilters/>&#xD;&#xA;&lt;/view>"/>
       <tags>View</tags>
       <tags>categoryTag:General</tags>
+      <tags>active</tags>
+      <tags>activeOnClose</tags>
       <menus xmi:id="_ZF1NsKOeEe2tc64GNKjZIw" elementId="org.eclipse.ui.navigator.ProjectExplorer">
         <tags>ViewMenu</tags>
         <tags>menuContribution:menu</tags>
@@ -501,7 +525,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_ozU2wKOdEe2tc64GNKjZIw" elementId="org.eclipse.ui.workbench.file">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_1NKasKXhEe2iUK1qXG-iUg" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_nwgH6KOdEe2tc64GNKjZIw"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_qVNK4KkcEe2vzN61QdJaAw" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_nwgH6KOdEe2tc64GNKjZIw"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_ozU2waOdEe2tc64GNKjZIw" elementId="group.edit" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -538,7 +562,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_ozWE4KOdEe2tc64GNKjZIw" elementId="org.eclipse.ui.workbench.navigate">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_1NPTMKXhEe2iUK1qXG-iUg" elementId="org.eclipse.ui.window.pinEditor" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_nwe5s6OdEe2tc64GNKjZIw"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_qVSqcKkcEe2vzN61QdJaAw" elementId="org.eclipse.ui.window.pinEditor" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" enabled="false" type="Check" command="_nwe5s6OdEe2tc64GNKjZIw"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_ozWE4aOdEe2tc64GNKjZIw" elementId="group.editor" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -3221,7 +3245,7 @@
   <addons xmi:id="_nuzexaOdEe2tc64GNKjZIw" elementId="MinMax Addon" contributorURI="platform:/plugin/org.eclipse.platform" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.addons.swt/org.eclipse.e4.ui.workbench.addons.minmax.MinMaxAddon"/>
   <addons xmi:id="_nuzexqOdEe2tc64GNKjZIw" elementId="org.eclipse.ui.workbench.addon.0" contributorURI="platform:/plugin/org.eclipse.platform" contributionURI="bundleclass://org.eclipse.e4.ui.workbench/org.eclipse.e4.ui.internal.workbench.addons.HandlerProcessingAddon"/>
   <addons xmi:id="_nvKrEKOdEe2tc64GNKjZIw" elementId="SplitterAddon" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.addons.swt/org.eclipse.e4.ui.workbench.addons.splitteraddon.SplitterAddon"/>
-  <addons xmi:id="_0uBnoKXhEe2iUK1qXG-iUg" elementId="org.eclipse.ui.ide.addon.0" contributionURI="bundleclass://org.eclipse.ui.ide/org.eclipse.ui.internal.ide.addons.SaveAllDirtyPartsAddon"/>
+  <addons xmi:id="_p3PcgKkcEe2vzN61QdJaAw" elementId="org.eclipse.ui.ide.addon.0" contributionURI="bundleclass://org.eclipse.ui.ide/org.eclipse.ui.internal.ide.addons.SaveAllDirtyPartsAddon"/>
   <addons xmi:id="_dz0JgGOlEeSMMaPQU2nlzw" elementId="org.eclipse.ui.ide.application.addon.0" contributorURI="platform:/plugin/org.eclipse.ui.ide.application" contributionURI="bundleclass://org.eclipse.ui.ide.application/org.eclipse.ui.internal.ide.application.addons.ModelCleanupAddon"/>
   <categories xmi:id="_nwAYkKOdEe2tc64GNKjZIw" elementId="org.eclipse.ui.category.edit" name="Edit"/>
   <categories xmi:id="_nwAYkaOdEe2tc64GNKjZIw" elementId="org.eclipse.mylyn.wikitext.ui.editor.category" name="WikiText Markup Editing Commands" description="commands for editing lightweight markup"/>

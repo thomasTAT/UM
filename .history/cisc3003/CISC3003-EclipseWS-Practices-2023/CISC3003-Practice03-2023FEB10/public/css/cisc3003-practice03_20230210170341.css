@@ -1,0 +1,15 @@
+@charset "UTF-8";
+h1 {
+    background-color: #1A237E;
+    color: #FFFFFF;
+}
+p.header{
+    background-color: #1A237E;
+    color: #FFFFFF;
+}
+ul{
+    
+}
+a {
+    display: inline-block;
+}

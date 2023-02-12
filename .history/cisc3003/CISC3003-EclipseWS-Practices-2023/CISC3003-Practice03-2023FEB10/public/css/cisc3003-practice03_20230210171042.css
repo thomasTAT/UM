@@ -1,0 +1,115 @@
+html{
+	background-color:#E8EAF6;
+	margin:0 40px;
+}
+
+main{
+	background-color:white;
+	padding:10px;
+	display: block;
+}
+
+header, footer {
+    color: white;
+}
+footer{
+	padding:10px;
+}
+
+header h1{
+	padding:10px 0 0 20px;
+	margin:0;
+}
+
+header p{
+	font-style:italic;
+	margin:0;
+	padding:0 0 0 20px;
+}
+
+ul{
+	background-color: #3F51B5;
+	list-style:none;
+	padding:4px 4px 4px 20px;
+}
+
+ul li{
+	display:inline;
+}
+
+a{
+	color:#00B0FF;
+}
+
+ul a{
+	padding:0 10px 0 0;
+}
+
+a:hover{
+    background-color:#F50057;
+}
+
+
+figure{
+	margin:0;
+}
+
+figcaption{
+	background-color:#C5CAE9;
+	padding:15px;
+}
+
+figcaption em{
+	font-style:Italic;
+	color:#7390A3;
+	font-weight: bold;
+	font-size:125%;
+}
+
+em, p{
+	font-family:serif;
+}
+
+p{
+	margin:16px;
+}
+
+p.byline{
+	color:blue;
+}
+
+time{
+	color:#FF80AB;
+}
+
+section{
+	width:700px;
+	border-style:solid;
+	border-width:0.15em;
+	border-color:#DADDF1;
+	margin:1em 0.5em;
+	padding:0;
+}
+
+h1,h3{
+	font-family: sans-serif;
+}
+
+h3{
+    color:#E1E4F3;
+    background: #7986CB;
+    text-transform: uppercase;
+	padding:16px;
+	margin:0;
+}
+
+section#reviews p{
+	border-style:dotted;
+	border-width:0 0 0.1em 0;
+	padding:0 0 0.5em 0;
+}
+section#reviews p.byline{
+	border-style:none;
+	border-width:0;
+	padding:0;
+}
