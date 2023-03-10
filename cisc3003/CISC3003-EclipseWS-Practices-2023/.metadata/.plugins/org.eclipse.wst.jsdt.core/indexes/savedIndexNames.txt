@@ -1,9 +1,7 @@
 INDEX VERSION 1.4+C:\git-repos\UM\cisc3003\CISC3003-EclipseWS-Practices-2023\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
-2402316168.index
-552984589.index
-332545872.index
+3855103777.index
+2471390903.index
 4028235438.index
-1695818277.index
-661909994.index
-1680840101.index
-2488963186.index
+2402316168.index
+1195802254.index
+887923511.index

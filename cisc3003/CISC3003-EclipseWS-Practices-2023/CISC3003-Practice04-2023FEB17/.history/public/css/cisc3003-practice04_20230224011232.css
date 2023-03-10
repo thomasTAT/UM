@@ -1,0 +1,74 @@
+body {
+    font-size: 100%;
+    background-color: #e8eaf6;
+}
+
+header h1 {
+    padding: 0.5rem 0 0 1.25rem;
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+header p {
+    font-size: 1rem;
+    font-style: italic;
+    margin-bottom: 1rem;
+    padding: 0 0 0 1.25rem;
+}
+
+header,
+footer {
+    color: white;
+    background-color: #1a237e;
+    margin: 1em 4em 0.25em 4em;
+}
+
+main {
+    background-color: white;
+    display: block;
+    margin: 1em 4em 1em 4em;
+    padding: 1em;
+}
+
+section {
+    margin-bottom: 1em;
+    padding: 0;
+    width: 100%;
+}
+
+legend {
+    font-size: 1.35rem;
+    background-color: #7986cb;
+    height: 1.7rem;
+    color: #e8eaf6;
+    text-transform: uppercase;
+    width: 100%;
+    margin: 0;
+    padding: 5px 0;
+}
+
+fieldset {
+    margin: 0;
+    padding: 0;
+    background-color: #c5cae9;
+    width: 100%;
+    border: none;
+}
+
+table td {
+    padding: 0.5em;
+}
+
+form label {
+    
+}
+
+form table {
+    width: 100%;
+    padding: 0 !important;
+}
+
+form table input[type="text"],
+form table textarea {
+    width: 100%;
+}

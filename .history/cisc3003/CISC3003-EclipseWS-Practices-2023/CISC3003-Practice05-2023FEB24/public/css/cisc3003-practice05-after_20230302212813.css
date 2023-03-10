@@ -1,0 +1,53 @@
+body, header, div, p, h1, h2, h3, h4 {
+  margin: 0;
+   padding: 0;
+   font-family: "Open Sans", "Arial", sans-serif;
+}
+h1, h2, h3, h4 {
+   font-family: 'Merriweather', "Times New Roman", serif;
+}
+header h1, header h2 {
+   color: white;
+}
+header h1 {
+   font-size: 48px;
+}
+header h2 {
+   font-size: 36px;
+}
+header span {
+   text-align: center;
+   margin-top: 10px;
+   font-size: 24px;
+   width: 160px;
+   padding: 9px;
+   border: solid 1px white;
+}
+header span a:link, header span a:visited {
+   color: white;
+}
+
+header {
+  position: relative;
+  width: 100%;
+  height: 450px;
+}
+header img {
+  object-fit: cover;
+}
+
+.banner--title, .banner {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+}
+.banner--title {
+  /* z-index: 100; */
+  /* text-align: center; */
+  background-color: rgba(0, 0, 0, 0.7);
+  
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

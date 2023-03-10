@@ -1,0 +1,158 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+@import url(https://fonts.googleapis.com/css?family=Lobster);
+
+/* general text formatting */
+
+h1,
+h2,
+h3 {
+    font-family: "Open Sans"
+}
+
+body {
+    font-family: "Open Sans", Verdana, Arial, sans-serif;
+    font-size: 100%;
+    background-color: #FFFFF0;
+    max-width: 1080px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+header {
+    color: white;
+    background-color: #36384C;
+    padding-left: 1.5rem;
+}
+
+header input {
+    margin-left: 1rem;
+    margin-bottom: 0.25rem;
+}
+
+.footer {
+    background-color: #36384c;
+    color: white;
+    padding: 0.5rem;
+}
+
+.footer p,
+.footer a {
+    font-size: 1.5rem;
+    text-decoration: none;
+}
+
+.footer a:hover {
+    background-color: #7986cb;
+}
+
+header h1 {
+    font-size: 2rem;
+    font-style: italic;
+
+}
+
+
+
+main {
+    background-color: #E9DCCD;
+    display: block;
+    padding: 1em;
+    /* 外面白色 */
+}
+
+
+/* profile */
+.subtitle {
+    background-color: #36384c;
+    color: white;
+    padding: 1rem;
+    font-size: 1.5rem;
+}
+
+table td {
+    vertical-align: text-top;
+}
+
+form table {
+    border: solid #1a237e;
+}
+
+/* nav部分 */
+.nav {
+    width: 150px;
+    background-color: #36384cdc;
+}
+
+.nav h2 {
+    font-size: 1.5em;
+    padding-left: 1.5rem;
+}
+
+.nav ul {
+    padding-left: 1rem;
+    list-style: none;
+}
+
+.nav ul a {
+    text-decoration: none;
+    margin: 0.5rem;
+}
+
+.nav a:visited,
+.footer a {
+    color: white;
+}
+
+.nav a:hover {
+    background-color: #1a237e;
+}
+
+.nav a,
+.nav{
+    color: white;
+}
+
+/* nav 部分 */
+
+
+
+.main h2 {
+    font-size: 2.5rem;
+    padding-left: 1rem;
+}
+
+.main p {
+    padding: 1rem;
+    /* padding-top: 5rem; */
+}
+
+.main img {
+    margin-left: 1rem;
+    margin-top: 1rem;
+    margin-right: 1rem;
+    margin-bottom: 1rem;
+}
+
+img {
+    border: solid #1a237e
+}
+
+.main ul{
+    padding: 2rem;
+   
+}
+
+.left {
+    float: left;
+    margin-right: 1rem;
+    margin-bottom: 1rem;
+}
+
+.clear {
+    clear: both;
+}
+
+.right {
+    float: right;
+}

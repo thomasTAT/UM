@@ -1,0 +1,136 @@
+body, header, div, p, h1, h2, h3, h4 {
+  margin: 0;
+   padding: 0;
+   font-family: "Open Sans", "Arial", sans-serif;
+}
+h1, h2, h3, h4 {
+   font-family: 'Merriweather', "Times New Roman", serif;
+}
+header h1, header h2 {
+   color: white;
+}
+header h1 {
+   font-size: 48px;
+}
+header h2 {
+   font-size: 36px;
+}
+header span {
+   text-align: center;
+   margin-top: 10px;
+   font-size: 24px;
+   width: 160px;
+   padding: 9px;
+   border: solid 1px white;
+}
+header span a:link, header span a:visited {
+   color: white;
+}
+
+/* 第一层block */
+header {
+  position: relative;
+  width: 100%;
+  height: 450px;
+}
+header img {
+  object-fit: cover;
+}
+/* 第二层block */
+/* 使用absolute会把字block,逼近ancestor block,左上角. */
+.banner--title, .banner {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+}
+.banner--title {
+  /* z-index: 1; */
+  text-align: center;
+  background-color: rgba(0, 0, 0, 0.7);
+  
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+
+/* 居中article */
+article {
+  margin: auto;
+  max-width:1170px;
+}
+
+/* 大标题下，一条横线效果 */
+.highlights h2 {
+  border-bottom: 4px solid black;
+  margin: 0.75em 0em 1em 0em;
+}
+
+/* 为什么不直接float left  疑惑? */
+.highlights--container {
+  width: 50%;
+  float: right;   
+}
+
+.highlights--container:first-of-type {
+  float: left;
+}
+
+
+.highlights--text {
+  margin-right: 1rem;
+}
+
+/* image 是个block element float left 不吃整行*/
+.highlights--media {
+  float: left;
+  margin-right: 0.75em;
+}
+
+.highlights--button {
+  float: right;
+  background-color: #ff9800;
+  text-decoration: none;
+  color: white;
+  padding: 0.25em;
+}
+
+.mosaic {
+  position: relative;
+  top: 250px;
+}
+
+.mosaic-item {
+  position: absolute;
+}
+
+.mosaic--b,.mosaic--c,.mosaic--g {
+  left: 590px;
+}
+
+
+
+
+
+/* xx
+.mosaic--c {
+  top: 200px;
+}
+
+.mosaic--d, .mosaic--h,.mosaic--k {
+  left: 885px;
+}
+.mosaic--e,.mosaic--f,.mosaic--g,.mosaic--h {
+  top: 400px;
+}
+.mosaic--f ,.mosaic--j{
+  left: 295px;
+}
+.mosaic--j,.mosaic--i,.mosaic--k {
+  top: 800px;
+}
+.mosaic--j {
+  top: 600px;
+}
+xx */

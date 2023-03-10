@@ -1,0 +1,43 @@
+header{
+    margin: 0em 4em 0.25em 4em;
+    background-color: #1a237e;
+    color:white
+}
+main{
+    background-color: white;
+    margin: 1em 4em 1em 4em;
+    padding: 1em;
+
+}
+body{
+    background-color: #e8eaf6;
+}
+h1{
+    font-size: 2rem;
+}
+header p{
+    font-size: 1rem;
+}
+fieldset {
+    background-color: #c5cae9;
+    border: none;
+    margin: 0;
+    padding: 0;
+}
+legend {
+    font-size: 1.35rem;
+    background-color: #7986cb;
+    height: 1.7rem;
+    color: #e8eaf6;
+    text-transform: uppercase;
+    width: 100%;
+    margin: 0;
+    padding: 5px 0;
+  }
+.background{
+    background-color: #9fa8da;
+    padding: 0.5em;
+}
+{
+
+}

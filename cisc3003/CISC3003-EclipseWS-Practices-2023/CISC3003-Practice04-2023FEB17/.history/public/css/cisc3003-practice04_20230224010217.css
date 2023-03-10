@@ -1,0 +1,30 @@
+body {
+    font-size: 100%;
+    background-color: #e8eaf6;
+}
+
+header h1 {
+    padding: 0.5rem 0 0 1.25rem;
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+header p {
+    font-size: 1rem;
+    font-style: italic;
+    margin-bottom: 1rem;
+    padding: 0 0 0 1.25rem;
+}
+
+header,
+footer {
+    color: white;
+    background-color: #1a237e;
+    margin: 0em 4em 0.25em 4em;
+}
+main {
+    background-color: white;
+    display: block;
+    margin: 1em 0em 1em 4em;
+    padding: 1em;
+  }

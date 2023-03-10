@@ -1,0 +1,23 @@
+import mysql.connector
+
+# connect to the MySQL server
+myconnect = mysql.connector.connect(
+  host='localhost',
+  database='mysql',
+  user='root',
+  password='@1234'
+)
+
+# create a cursor object
+mycursor = myconnect.cursor(buffered=True)
+
+# execute a SQL query
+mycursor.execute('show databases')
+
+# print the result
+for x in mycursor:
+  print(x)
+
+# close the cursor and connection
+mycursor.close()
+myconnect.close()

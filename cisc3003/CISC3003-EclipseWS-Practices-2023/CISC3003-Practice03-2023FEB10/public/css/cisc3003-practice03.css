@@ -35,15 +35,13 @@ ul{
 }
 
 ul li{
-	display:inline;
+	display:inline;	
+	padding:0 10px 0 0;
+
 }
 
 a{
 	color:#00B0FF;
-}
-
-ul a{
-	padding:0 10px 0 0;
 }
 
 a:hover{

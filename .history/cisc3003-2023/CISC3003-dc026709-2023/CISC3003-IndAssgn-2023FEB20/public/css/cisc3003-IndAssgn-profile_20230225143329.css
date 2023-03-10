@@ -1,0 +1,17 @@
+header {
+    background-color: #1a237e;
+    color: white
+}
+table td{
+    padding-right: 10rem;
+}
+
+main {
+    background-color: white;
+    /* prevent eclipse browser fuck up*/
+    display: block;
+    margin: 1em 4em 1em 4em;
+    padding: 1em;
+  }
+
+  header{}

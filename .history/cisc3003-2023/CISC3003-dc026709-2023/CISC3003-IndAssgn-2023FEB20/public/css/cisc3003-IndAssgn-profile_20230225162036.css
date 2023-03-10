@@ -1,0 +1,102 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+@import url(https://fonts.googleapis.com/css?family=Lobster);
+
+/* general text formatting */
+
+h1,
+h2,
+h3,
+legend,
+footer {
+    font-family: serif;
+}
+
+body {
+    font-family: "Open Sans", Verdana, Arial, sans-serif;
+    font-size: 100%;
+    background-color: #e8eaf6;
+    max-width: 1080px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* header and navigation */
+
+header,
+footer {
+    color: white;
+    background-color: #1a237e;
+}
+
+header h1 {
+    font-size: 2rem;
+    font-style: italic;
+    padding: 0 0 0 1.25rem;
+    padding-left:1.5rem ;
+
+}
+
+header p {
+    font-size: 1rem;
+    font-style: italic;
+    margin-bottom: 1rem;
+    padding: 0 0 0 1.25rem;
+}
+
+/* main article styling */
+main {
+    background-color: white;
+    display: block;
+    /* margin: 1em 4em 1em 4em; */
+    padding: 1em;
+}
+
+section {
+    margin-bottom: 1em;
+    padding: 0;
+    width: 100%;
+}
+
+
+.subtitle{
+    background-color: #1a237e;
+    color: white;
+    padding:1rem;
+    font-size:1.5rem;
+}
+
+table td {
+    vertical-align: text-top;
+}
+
+
+form table {
+    width: 100%;
+    padding: 0 !important;
+    border: solid #1a237e;
+}
+
+.nav{
+    width :150px ;
+    background-color:#7986cb;
+}
+.nav h2{
+    font-size:1.5em;
+    color:white;
+    margin:0;
+}
+
+ol{
+    color:white;
+    padding: 0;
+    margin:0;
+    padding-left: 1rem;
+}
+.main h2{
+    font-size:2.5rem;
+    background-color: aqua;
+
+}
+.main p{
+    padding-left:1rem ;
+}

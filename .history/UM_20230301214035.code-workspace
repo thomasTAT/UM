@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../css_course"
+		}
+	],
+	"settings": {
+		"livePreview.defaultPreviewPath": "/cisc3003-2023/CISC3003-dc026709-2023/CISC3003-IndAssgn-2023FEB20/public/cisc3003-IndAssgn-showcase.html",
+		"java.debug.settings.onBuildFailureProceed": true
+	}
+}
